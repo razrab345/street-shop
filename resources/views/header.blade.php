@@ -4,7 +4,7 @@
 			<div class="header__top-block">
 				<div class="header__left">
 					<i class="fa fa-truck" aria-hidden="true"></i>
-					<a href="">Доставка по г. Хабаровск = 0 руб.</a>
+					<a href="">Доставка = 0 руб.</a>
 				</div>
 				<div class="header__right">
 					<a href="">Избранное</a>
